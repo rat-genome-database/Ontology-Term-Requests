@@ -13,7 +13,6 @@ Which ontology is this related to?
 - [ ] CMO
 - [ ] MMO
 - [ ] XCO
-- [ ] RDO
 
 ---
 

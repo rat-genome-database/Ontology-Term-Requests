@@ -13,7 +13,6 @@ Which ontology does this request apply to?
 - [ ] CMO (Clinical Measurement Ontology)
 - [ ] MMO (Measurement Method Ontology)
 - [ ] XCO (Experimental Condition Ontology)
-- [ ] RDO (Rat Disease Ontology)
 
 ---
 

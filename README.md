@@ -1,4 +1,4 @@
-# Ontology Term Requests (CMO, MMO, XCO, RDO)
+# Ontology Term Requests (CMO, MMO, XCO)
 
 ![Ontology Requests](https://img.shields.io/badge/ontology-requests-blue)
 ![Issues Welcome](https://img.shields.io/badge/issues-welcome-brightgreen)
@@ -11,7 +11,6 @@ This repository is used to request **new terms, updates, or improvements** for t
 | **CMO** | Clinical Measurement Ontology |
 | **MMO** | Measurement Method Ontology |
 | **XCO** | Experimental Condition Ontology |
-| **RDO** | Rat Disease Ontology |
 
 Researchers, curators, and ontology users are encouraged to submit requests to improve ontology coverage and quality.
 
@@ -36,7 +35,7 @@ When submitting a request, you will be asked to provide information like the fol
 
 | Field | Description |
 |-----|-----|
-| Ontology | CMO, MMO, XCO, or RDO |
+| Ontology | CMO, MMO, or XCO |
 | Term Name | Proposed term label |
 | Definition | Clear definition of the term |
 | Parent Term | Existing ontology term this should fall under |
@@ -83,10 +82,6 @@ Describes **methods and techniques** used to obtain measurements.
 ### Experimental Condition Ontology (XCO)
 
 Captures **experimental treatments and environmental conditions** applied in studies.
-
-### Rat Disease Ontology (RDO)
-
-Provides structured terminology for **diseases relevant to rat models of human disease**.
 
 ---
 
